@@ -1,0 +1,8319 @@
+{
+
+	"type" : "FeatureCollection",
+
+	"name" : "ncc_Recycling_Centres",
+
+	"crs" : {
+
+		"type" : "name",
+
+		"properties" : {
+
+			"name" : "EPSG:27700"
+
+		}
+
+	},
+
+	"features" : [
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 454983.2299662251, 340477.0100411866 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "St Peters Court Flat Complex",
+
+				"ADDRESS" : "St Peters Street",
+
+				"BANK_TYPE" : "MRC",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "Yes",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "Yes",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 454983.2299662251,
+
+				"NORTHING" : 340477.0100411866,
+
+				"LONG" : -1.1829606982997762,
+
+				"LAT" : 52.95886351021585,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 457747.2899975106, 339140.2399776932 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Midland Railway Station",
+
+				"ADDRESS" : "Off Queens Street, City Centre",
+
+				"BANK_TYPE" : "MRC",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "No",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "Yes",
+
+				"CANS_TINS" : "Yes",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 457747.2899975106,
+
+				"NORTHING" : 339140.2399776932,
+
+				"LONG" : -1.142056499722483,
+
+				"LAT" : 52.94655850340157,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 457559.9999886155, 338560.0499501359 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Meadows Primary School",
+
+				"ADDRESS" : "Kirkby Gardens, Meadows",
+
+				"BANK_TYPE" : "MRC",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "No",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "No",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 457559.9999886155,
+
+				"NORTHING" : 338560.0499501359,
+
+				"LONG" : -1.1449462316858798,
+
+				"LAT" : 52.94136369072525,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 455158.4099745462, 345302.99997040816 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Tesco Car Park Top Valley",
+
+				"ADDRESS" : "Top Valley Way, Top Valley",
+
+				"BANK_TYPE" : "Igloo&MRC ",
+
+				"CLEAR_GLASS" : "Yes",
+
+				"GREEN_GLASS" : "Yes",
+
+				"BROWN_GLASS" : "Yes",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "Yes",
+
+				"TEXTILES" : "Yes",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "Yes",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "No",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 455158.4099745462,
+
+				"NORTHING" : 345302.99997040816,
+
+				"LONG" : -1.1795321563831,
+
+				"LAT" : 53.00222287354928,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 456739.7800496565, 338359.040040588 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Bosworth Primary School",
+
+				"ADDRESS" : "Ainsworth Drive, Meadows",
+
+				"BANK_TYPE" : "MRC",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "No",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "Yes",
+
+				"TEXTILES" : "Yes",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 456739.7800496565,
+
+				"NORTHING" : 338359.040040588,
+
+				"LONG" : -1.157185063487001,
+
+				"LAT" : 52.93964410326733,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 455882.9400089588, 335146.28998799063 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Roundabout Centre",
+
+				"ADDRESS" : "Southchurch Drive, Wilford",
+
+				"BANK_TYPE" : "MRC",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "No",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "Yes",
+
+				"CANS_TINS" : "Yes",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "No",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 455882.9400089588,
+
+				"NORTHING" : 335146.28998799063,
+
+				"LONG" : -1.1704851535870333,
+
+				"LAT" : 52.910856526298346,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 459405.05997625086, 340251.4300304707 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Iona School",
+
+				"ADDRESS" : "Sneinton Dale, Sneinton",
+
+				"BANK_TYPE" : "MRC",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "No",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "Yes",
+
+				"TEXTILES" : "Yes",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 459405.05997625086,
+
+				"NORTHING" : 340251.4300304707,
+
+				"LONG" : -1.1171851627702334,
+
+				"LAT" : 52.95636549736222,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 456722.9200488562, 342147.62002053484 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Claremont Primary School",
+
+				"ADDRESS" : "Claremont Road, Sherwood",
+
+				"BANK_TYPE" : "Igloo&MRC ",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "No",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "No",
+
+				"TEXTILES" : "Yes",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 456722.9200488562,
+
+				"NORTHING" : 342147.62002053484,
+
+				"LONG" : -1.1567739801534538,
+
+				"LAT" : 52.97369860786973,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 456752.63995026797, 345376.5399739016 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Co-Op Beckhampton Road",
+
+				"ADDRESS" : "Beckhampton Road, Bestwood Park",
+
+				"BANK_TYPE" : "Node",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "No",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "Yes",
+
+				"CANS_TINS" : "No",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 456752.63995026797,
+
+				"NORTHING" : 345376.5399739016,
+
+				"LONG" : -1.155765960566906,
+
+				"LAT" : 53.00271766547762,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 452644.8799551595, 341730.3700007163 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Highwood Player Junior School",
+
+				"ADDRESS" : "Highwood Avenue, Bilborough",
+
+				"BANK_TYPE" : "MRC",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "No",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "No",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 452644.8799551595,
+
+				"NORTHING" : 341730.3700007163,
+
+				"LONG" : -1.2175633350177189,
+
+				"LAT" : 52.97036324404212,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 455674.83999907505, 340566.3900454305 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Woodlands Estate",
+
+				"ADDRESS" : "Off Norton Street, Radford",
+
+				"BANK_TYPE" : "MRC",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "No",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "Yes",
+
+				"CANS_TINS" : "Yes",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 455674.83999907505,
+
+				"NORTHING" : 340566.3900454305,
+
+				"LONG" : -1.1726509655219493,
+
+				"LAT" : 52.95959570308417,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 457851.29000245035, 338460.34004539996 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Portland Leisure Centre",
+
+				"ADDRESS" : "Arkwright Walk, Meadows",
+
+				"BANK_TYPE" : "Supersite",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "No",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "Yes",
+
+				"CANS_TINS" : "Yes",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 457851.29000245035,
+
+				"NORTHING" : 338460.34004539996,
+
+				"LONG" : -1.1406300070620614,
+
+				"LAT" : 52.94043622377871,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 454513.23004390113, 345497.88997966424 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Colston Flats",
+
+				"ADDRESS" : "Colston Road, Ng6 9jn",
+
+				"BANK_TYPE" : "Igloo",
+
+				"CLEAR_GLASS" : "Yes",
+
+				"GREEN_GLASS" : "Yes",
+
+				"BROWN_GLASS" : "Yes",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "Yes",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 454513.23004390113,
+
+				"NORTHING" : 345497.88997966424,
+
+				"LONG" : -1.1891122998817953,
+
+				"LAT" : 53.00404050698937,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 458085.95001359656, 340927.3699625768 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Robin Hood Chase Car Park",
+
+				"ADDRESS" : "Robin Hood Chase, St Anns",
+
+				"BANK_TYPE" : "Igloo",
+
+				"CLEAR_GLASS" : "Yes",
+
+				"GREEN_GLASS" : "Yes",
+
+				"BROWN_GLASS" : "Yes",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "Yes",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 458085.95001359656,
+
+				"NORTHING" : 340927.3699625768,
+
+				"LONG" : -1.1366974079546064,
+
+				"LAT" : 52.9625851341636,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 457853.76000256836, 338050.36002592556 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Trent Bridge Primary",
+
+				"ADDRESS" : "Green Street, Meadows",
+
+				"BANK_TYPE" : "MRC",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "No",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "Yes",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "No",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 457853.76000256836,
+
+				"NORTHING" : 338050.36002592556,
+
+				"LONG" : -1.1406662406928993,
+
+				"LAT" : 52.936750957245955,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 455300.1899812799, 340361.99003572203 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Radford Primary School",
+
+				"ADDRESS" : "Denman St West, Radford",
+
+				"BANK_TYPE" : "MRC",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "No",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "No",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 455300.1899812799,
+
+				"NORTHING" : 340361.99003572203,
+
+				"LONG" : -1.1782624328738585,
+
+				"LAT" : 52.957797164921,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 455552.46999326255, 343044.5599631369 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Heathfields Primary School",
+
+				"ADDRESS" : "Scotland Road, Basford",
+
+				"BANK_TYPE" : "MRC",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "No",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "No",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 455552.46999326255,
+
+				"NORTHING" : 343044.5599631369,
+
+				"LONG" : -1.1740480578242767,
+
+				"LAT" : 52.9818828322561,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 458812.8200481208, 342870.2699548602 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Mapperley Hospital Car Park",
+
+				"ADDRESS" : "Porchester Road, Mapperley",
+
+				"BANK_TYPE" : "Igloo",
+
+				"CLEAR_GLASS" : "Yes",
+
+				"GREEN_GLASS" : "Yes",
+
+				"BROWN_GLASS" : "Yes",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "Yes",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "No",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 458812.8200481208,
+
+				"NORTHING" : 342870.2699548602,
+
+				"LONG" : -1.125525078533995,
+
+				"LAT" : 52.97996918219343,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 454095.6100240657, 339975.15001734905 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Middleton Primary School",
+
+				"ADDRESS" : "Harrow Road, Wollaton",
+
+				"BANK_TYPE" : "MRC",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "No",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "No",
+
+				"TEXTILES" : "Yes",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "No",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 454095.6100240657,
+
+				"NORTHING" : 339975.15001734905,
+
+				"LONG" : -1.1962563260142496,
+
+				"LAT" : 52.954442666994694,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 454518.9200441716, 340645.89004920796 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Robert Shaw Primary School",
+
+				"ADDRESS" : "Southfield Road, Radford",
+
+				"BANK_TYPE" : "MRC",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "No",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "Yes",
+
+				"TEXTILES" : "Yes",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 454518.9200441716,
+
+				"NORTHING" : 340645.89004920796,
+
+				"LONG" : -1.1898434712225687,
+
+				"LAT" : 52.960428745237635,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 454727.20995406527, 344029.4300099164 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Oakleigh Lodge Social Club",
+
+				"ADDRESS" : "Highbury Road, Bulwell",
+
+				"BANK_TYPE" : "MRC",
+
+				"CLEAR_GLASS" : "Yes",
+
+				"GREEN_GLASS" : "Yes",
+
+				"BROWN_GLASS" : "Yes",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "No",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 454727.20995406527,
+
+				"NORTHING" : 344029.4300099164,
+
+				"LONG" : -1.186172058697962,
+
+				"LAT" : 52.990819832001655,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 454459.1600413332, 346103.7700084429 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Morrisons Car Park",
+
+				"ADDRESS" : "Hucknall Lane, Bulwell East",
+
+				"BANK_TYPE" : "Igloo",
+
+				"CLEAR_GLASS" : "Yes",
+
+				"GREEN_GLASS" : "Yes",
+
+				"BROWN_GLASS" : "Yes",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "Yes",
+
+				"TEXTILES" : "Yes",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "Yes",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "Yes",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 454459.1600413332,
+
+				"NORTHING" : 346103.7700084429,
+
+				"LONG" : -1.1898160319352806,
+
+				"LAT" : 53.00949179939134,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 455607.5599958794, 335241.139992496 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Brooksby Primary School",
+
+				"ADDRESS" : "Greencroft, Clifton",
+
+				"BANK_TYPE" : "MRC",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "No",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "Yes",
+
+				"TEXTILES" : "Yes",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 455607.5599958794,
+
+				"NORTHING" : 335241.139992496,
+
+				"LONG" : -1.1745633650704232,
+
+				"LAT" : 52.911737579089184,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 455084.06997101475, 338497.76004717685 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Queens Medical Centre",
+
+				"ADDRESS" : "Derby Road, Lenton",
+
+				"BANK_TYPE" : "Igloo",
+
+				"CLEAR_GLASS" : "Yes",
+
+				"GREEN_GLASS" : "Yes",
+
+				"BROWN_GLASS" : "Yes",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "No",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "No",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 455084.06997101475,
+
+				"NORTHING" : 338497.76004717685,
+
+				"LONG" : -1.1817953849209744,
+
+				"LAT" : 52.94106305106407,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 453266.61998469103, 341632.5599960722 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Trinity School",
+
+				"ADDRESS" : "Beechdale Road, Aspley",
+
+				"BANK_TYPE" : "MRC",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "No",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "No",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 453266.61998469103,
+
+				"NORTHING" : 341632.5599960722,
+
+				"LONG" : -1.2083224464173934,
+
+				"LAT" : 52.96942282925363,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 452536.0200499892, 341917.37000959925 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Brocklewood Junior School (Independent)",
+
+				"ADDRESS" : "Fircroft Avenue, Bilborough",
+
+				"BANK_TYPE" : "Industrial",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "No",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "No",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 452536.0200499892,
+
+				"NORTHING" : 341917.37000959925,
+
+				"LONG" : -1.2191538475150054,
+
+				"LAT" : 52.972054722209684,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 451123.3299828898, 340532.2600438092 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Portland Primary School",
+
+				"ADDRESS" : "Westwick Road, Bilborough",
+
+				"BANK_TYPE" : "Bank",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "No",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "No",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 451123.3299828898,
+
+				"NORTHING" : 340532.2600438092,
+
+				"LONG" : -1.2404062055329845,
+
+				"LAT" : 52.95974100983216,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 457106.41996707115, 344413.8400281742 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Haywood Comprehensive School",
+
+				"ADDRESS" : "Edwards Lane, Sherwood",
+
+				"BANK_TYPE" : "MRC",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "No",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "Yes",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 457106.41996707115,
+
+				"NORTHING" : 344413.8400281742,
+
+				"LONG" : -1.150664508180048,
+
+				"LAT" : 52.994027221813475,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 453753.2200078033, 341447.7799872942 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Manning Comprehensive School",
+
+				"ADDRESS" : "Robins Wood Road, Aspley",
+
+				"BANK_TYPE" : "MRC",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "No",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "No",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 453753.2200078033,
+
+				"NORTHING" : 341447.7799872942,
+
+				"LONG" : -1.2011083511846996,
+
+				"LAT" : 52.96771351511786,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 452955.4799699122, 341338.79998211935 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Glaisdale Comprehensive School",
+
+				"ADDRESS" : "Glenbrook Crescent, Bilborough",
+
+				"BANK_TYPE" : "MRC",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "No",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "No",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 452955.4799699122,
+
+				"NORTHING" : 341338.79998211935,
+
+				"LONG" : -1.213002782899869,
+
+				"LAT" : 52.96681315534358,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 457053.3999645533, 342133.4200198613 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Mansfield Road",
+
+				"ADDRESS" : "Opp Tavistock Drive, Mansfield Road, Sherwood",
+
+				"BANK_TYPE" : "Node",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "No",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "Yes",
+
+				"CANS_TINS" : "Yes",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 457053.3999645533,
+
+				"NORTHING" : 342133.4200198613,
+
+				"LONG" : -1.1518557288628284,
+
+				"LAT" : 52.9735359830316,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 455496.9999906281, 339807.7600093987 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Marcus Garvey Centre",
+
+				"ADDRESS" : "Lenton Boulevard, Lenton",
+
+				"BANK_TYPE" : "Igloo",
+
+				"CLEAR_GLASS" : "Yes",
+
+				"GREEN_GLASS" : "Yes",
+
+				"BROWN_GLASS" : "Yes",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "Yes",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 455496.9999906281,
+
+				"NORTHING" : 339807.7600093987,
+
+				"LONG" : -1.1754277754101536,
+
+				"LAT" : 52.95279529888745,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 453895.6700145686, 345978.470002491 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Oap Home Squires Avenue",
+
+				"ADDRESS" : "Squires Avenue, Bulwell East",
+
+				"BANK_TYPE" : "MRC",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "No",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "No",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 453895.6700145686,
+
+				"NORTHING" : 345978.470002491,
+
+				"LONG" : -1.1982341290347671,
+
+				"LAT" : 53.008422457821474,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 457557.7499885084, 343216.4599713031 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Hall Street Car Park",
+
+				"ADDRESS" : "Hall Street, Sherwood",
+
+				"BANK_TYPE" : "Igloo",
+
+				"CLEAR_GLASS" : "Yes",
+
+				"GREEN_GLASS" : "Yes",
+
+				"BROWN_GLASS" : "Yes",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "Yes",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "No",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 457557.7499885084,
+
+				"NORTHING" : 343216.4599713031,
+
+				"LONG" : -1.1441538838761438,
+
+				"LAT" : 52.98321676087972,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 456279.040027773, 340632.55004857294 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "At End Of The Street",
+
+				"ADDRESS" : "Tennyson Street",
+
+				"BANK_TYPE" : "Node",
+
+				"CLEAR_GLASS" : "Yes",
+
+				"GREEN_GLASS" : "Yes",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "Yes",
+
+				"CANS_TINS" : "Yes",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "Yes",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "No",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 456279.040027773,
+
+				"NORTHING" : 340632.55004857294,
+
+				"LONG" : -1.1636460315719281,
+
+				"LAT" : 52.96012745130581,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 457169.6399700744, 338921.62996730953 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Welbeck Primary School",
+
+				"ADDRESS" : "Kinglake Place, Meadows",
+
+				"BANK_TYPE" : "MRC",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "No",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "Yes",
+
+				"TEXTILES" : "Yes",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 457169.6399700744,
+
+				"NORTHING" : 338921.62996730953,
+
+				"LONG" : -1.1506906185545236,
+
+				"LAT" : 52.94465529752093,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 457508.91998618934, 341493.9599894881 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "St. Augustines R.c. Primary School",
+
+				"ADDRESS" : "Park Avenue, Mapperley Road, Mapperley",
+
+				"BANK_TYPE" : "MRC",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "No",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "Yes",
+
+				"TEXTILES" : "Yes",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 457508.91998618934,
+
+				"NORTHING" : 341493.9599894881,
+
+				"LONG" : -1.1451865749748562,
+
+				"LAT" : 52.96773981867843,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 454589.08004750405, 337871.7200174406 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Tennis Centre",
+
+				"ADDRESS" : "University Boulevard, Dunkirk",
+
+				"BANK_TYPE" : "Igloo",
+
+				"CLEAR_GLASS" : "Yes",
+
+				"GREEN_GLASS" : "Yes",
+
+				"BROWN_GLASS" : "Yes",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "Yes",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 454589.08004750405,
+
+				"NORTHING" : 337871.7200174406,
+
+				"LONG" : -1.1892653002667273,
+
+				"LAT" : 52.935486437524915,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 455648.989997847, 339669.8300028462 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Savoy Cinema",
+
+				"ADDRESS" : "Derby Road",
+
+				"BANK_TYPE" : "Node",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "No",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "Yes",
+
+				"CANS_TINS" : "Yes",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 455648.989997847,
+
+				"NORTHING" : 339669.8300028462,
+
+				"LONG" : -1.1731894030223473,
+
+				"LAT" : 52.951539834199785,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 455957.580012504, 342950.4699586686 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Westbury Special School",
+
+				"ADDRESS" : "Lortas Road, Forest Fields",
+
+				"BANK_TYPE" : "MRC",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "No",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "Yes",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 455957.580012504,
+
+				"NORTHING" : 342950.4699586686,
+
+				"LONG" : -1.1680311637340393,
+
+				"LAT" : 52.98099507795605,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 455923.9300109064, 336631.5799585376 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Dunkirk Sports Ground/football Club",
+
+				"ADDRESS" : "Lenton Lane, Dunkirk",
+
+				"BANK_TYPE" : "Igloo",
+
+				"CLEAR_GLASS" : "Yes",
+
+				"GREEN_GLASS" : "Yes",
+
+				"BROWN_GLASS" : "Yes",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "No",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "No",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 455923.9300109064,
+
+				"NORTHING" : 336631.5799585376,
+
+				"LONG" : -1.1696204570199564,
+
+				"LAT" : 52.92420256909114,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 458486.16003260575, 342587.40004142374 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Elliot Durham Comprehensive School",
+
+				"ADDRESS" : "Ransom Drive, Mapperley",
+
+				"BANK_TYPE" : "Industrial",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "No",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "Yes",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "No",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 458486.16003260575,
+
+				"NORTHING" : 342587.40004142374,
+
+				"LONG" : -1.1304406533182774,
+
+				"LAT" : 52.977462371090276,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 454597.0000478802, 344318.5500236489 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Henry Mellish Comprehensive School",
+
+				"ADDRESS" : "Highbury Road, Bulwell",
+
+				"BANK_TYPE" : "Industrial",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "No",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "Yes",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "No",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 454597.0000478802,
+
+				"NORTHING" : 344318.5500236489,
+
+				"LONG" : -1.1880629106069627,
+
+				"LAT" : 52.993431775977974,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 455540.9299927149, 346032.0900050383 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Top Valley Comprehensive School",
+
+				"ADDRESS" : "Top Valley Drive, Off Hucknall Road, Top Valley",
+
+				"BANK_TYPE" : "MRC",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "No",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "Yes",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 455540.9299927149,
+
+				"NORTHING" : 346032.0900050383,
+
+				"LONG" : -1.173707674104657,
+
+				"LAT" : 53.00873664976065,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 458005.98000979796, 343197.6499704085 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Winchester/woodthorpe Court",
+
+				"ADDRESS" : "Off Winchester Street, Sherwood",
+
+				"BANK_TYPE" : "Igloo",
+
+				"CLEAR_GLASS" : "Yes",
+
+				"GREEN_GLASS" : "Yes",
+
+				"BROWN_GLASS" : "Yes",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "No",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 458005.98000979796,
+
+				"NORTHING" : 343197.6499704085,
+
+				"LONG" : -1.1374817938877988,
+
+				"LAT" : 52.98299946988262,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 454062.5100224931, 345010.6299565211 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Bulwell Railway Station",
+
+				"ADDRESS" : "Main Street, Bulwell",
+
+				"BANK_TYPE" : "MRC",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "No",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "Yes",
+
+				"CANS_TINS" : "Yes",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "Yes",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 454062.5100224931,
+
+				"NORTHING" : 345010.6299565211,
+
+				"LONG" : -1.195909513699854,
+
+				"LAT" : 52.99970646769585,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 454320.38003474195, 340697.82995167375 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Beechdale Baths",
+
+				"ADDRESS" : "Beechdale Road, Beechdale",
+
+				"BANK_TYPE" : "Igloo",
+
+				"CLEAR_GLASS" : "Yes",
+
+				"GREEN_GLASS" : "Yes",
+
+				"BROWN_GLASS" : "Yes",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "Yes",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 454320.38003474195,
+
+				"NORTHING" : 340697.82995167375,
+
+				"LONG" : -1.192790106539477,
+
+				"LAT" : 52.96091569654563,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 458772.3800462, 341590.5699940771 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Morely Junior School",
+
+				"ADDRESS" : "The Wells Road, St Anns",
+
+				"BANK_TYPE" : "MRC",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "No",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "Yes",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 458772.3800462,
+
+				"NORTHING" : 341590.5699940771,
+
+				"LONG" : -1.1263592220943144,
+
+				"LAT" : 52.968471465036764,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 453767.84000849724, 341359.4499830995 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Aspley Wood School",
+
+				"ADDRESS" : "Robinswood Road, Aspley",
+
+				"BANK_TYPE" : "MRC",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "No",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "No",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 453767.84000849724,
+
+				"NORTHING" : 341359.4499830995,
+
+				"LONG" : -1.2009053273703625,
+
+				"LAT" : 52.966918112751536,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 453325.0199874649, 343241.18997247703 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Bells Lane Community Centre",
+
+				"ADDRESS" : "Amesbury Circus, Aspley",
+
+				"BANK_TYPE" : "MRC",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "No",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "Yes",
+
+				"CANS_TINS" : "Yes",
+
+				"TEXTILES" : "Yes",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 453325.0199874649,
+
+				"NORTHING" : 343241.18997247703,
+
+				"LONG" : -1.207188464970486,
+
+				"LAT" : 52.98387594792984,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 457844.41000212356, 340042.4500205461 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Brook Street Car Park",
+
+				"ADDRESS" : "Brook Street, City Centre",
+
+				"BANK_TYPE" : "Igloo",
+
+				"CLEAR_GLASS" : "Yes",
+
+				"GREEN_GLASS" : "Yes",
+
+				"BROWN_GLASS" : "Yes",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "Yes",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 457844.41000212356,
+
+				"NORTHING" : 340042.4500205461,
+
+				"LONG" : -1.1404506249642643,
+
+				"LAT" : 52.9546573341122,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 457976.79000841174, 339133.2099773586 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Eastcroft Depot",
+
+				"ADDRESS" : "London Road, City Centre",
+
+				"BANK_TYPE" : "MRC",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "No",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "Yes",
+
+				"CANS_TINS" : "Yes",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 457976.79000841174,
+
+				"NORTHING" : 339133.2099773586,
+
+				"LONG" : -1.1386427174273617,
+
+				"LAT" : 52.94647062338879,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 455472.49998946395, 333773.85002280213 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Milford Primary School",
+
+				"ADDRESS" : "Dungannon Road, Clifton",
+
+				"BANK_TYPE" : "MRC",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "No",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "No",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 455472.49998946395,
+
+				"NORTHING" : 333773.85002280213,
+
+				"LONG" : -1.1768214422442052,
+
+				"LAT" : 52.898562950343575,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 455086.05997110903, 338342.24003979005 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Dunkirk And Old Lenton Community Centre",
+
+				"ADDRESS" : "Montpelier Road, Dunkirk",
+
+				"BANK_TYPE" : "MRC",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "No",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "Yes",
+
+				"CANS_TINS" : "Yes",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 455086.05997110903,
+
+				"NORTHING" : 338342.24003979005,
+
+				"LONG" : -1.1817921371416247,
+
+				"LAT" : 52.93966498106309,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 453432.1599925533, 341423.1399861239 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Woodlands Special School",
+
+				"ADDRESS" : "Beechdale Road, Aspley",
+
+				"BANK_TYPE" : "MRC",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "No",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "Yes",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 453432.1599925533,
+
+				"NORTHING" : 341423.1399861239,
+
+				"LONG" : -1.2058923004894195,
+
+				"LAT" : 52.967524056722,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 458720.59004374035, 339471.3799934201 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Kwiksave (Sneinton)",
+
+				"ADDRESS" : "Meadow Lane, Sneinton",
+
+				"BANK_TYPE" : "Igloo&MRC ",
+
+				"CLEAR_GLASS" : "Yes",
+
+				"GREEN_GLASS" : "Yes",
+
+				"BROWN_GLASS" : "Yes",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "Yes",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "Yes",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "Yes",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 458720.59004374035,
+
+				"NORTHING" : 339471.3799934201,
+
+				"LONG" : -1.127513637397345,
+
+				"LAT" : 52.949429460736944,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 454261.2900319351, 341622.279995583 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "The Bluecoat School",
+
+				"ADDRESS" : "Aspley Lane, Aspley",
+
+				"BANK_TYPE" : "Industrial",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "No",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "No",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "No",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 454261.2900319351,
+
+				"NORTHING" : 341622.279995583,
+
+				"LONG" : -1.193515119206891,
+
+				"LAT" : 52.96923092216924,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 454445.7400406962, 343209.25997096114 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Stockhill Lane Fire Station",
+
+				"ADDRESS" : "Stockhill Lane, Bulwell",
+
+				"BANK_TYPE" : "MRC",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "No",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "Yes",
+
+				"CANS_TINS" : "Yes",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 454445.7400406962,
+
+				"NORTHING" : 343209.25997096114,
+
+				"LONG" : -1.1905025410906747,
+
+				"LAT" : 52.983476522180425,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 456104.39001947735, 341858.5600068066 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Forest Fields Community Centre",
+
+				"ADDRESS" : "Sturton Street, Forest Fields",
+
+				"BANK_TYPE" : "MRC",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "No",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "Yes",
+
+				"CANS_TINS" : "Yes",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 456104.39001947735,
+
+				"NORTHING" : 341858.5600068066,
+
+				"LONG" : -1.1660337371419387,
+
+				"LAT" : 52.97116540793365,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 451909.9200202506, 341060.0199688766 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Bracebridge Drive Shops",
+
+				"ADDRESS" : "Bracebridge Drive, Bilborough",
+
+				"BANK_TYPE" : "MRC",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "No",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "Yes",
+
+				"CANS_TINS" : "Yes",
+
+				"TEXTILES" : "Yes",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 451909.9200202506,
+
+				"NORTHING" : 341060.0199688766,
+
+				"LONG" : -1.2286132615374898,
+
+				"LAT" : 52.964409362319415,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 458481.79003239796, 341625.3399957288 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Metropolitan Estate - Lower Car Park",
+
+				"ADDRESS" : "Brewsters Road, St Anns",
+
+				"BANK_TYPE" : "Igloo",
+
+				"CLEAR_GLASS" : "Yes",
+
+				"GREEN_GLASS" : "Yes",
+
+				"BROWN_GLASS" : "Yes",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "Yes",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 458481.79003239796,
+
+				"NORTHING" : 341625.3399957288,
+
+				"LONG" : -1.13067920642628,
+
+				"LAT" : 52.968815688901344,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 455736.5700020073, 339408.0599904135 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Church Square Shops",
+
+				"ADDRESS" : "Willoughby Street, Lenton",
+
+				"BANK_TYPE" : "MRC",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "No",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "Yes",
+
+				"CANS_TINS" : "Yes",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "Yes",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 455736.5700020073,
+
+				"NORTHING" : 339408.0599904135,
+
+				"LONG" : -1.171930944223646,
+
+				"LAT" : 52.94917789623151,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 457185.26997081656, 345510.9999802876 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Glade Hill Primary School",
+
+				"ADDRESS" : "Chippenham Road, Bestwood Park",
+
+				"BANK_TYPE" : "MRC",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "No",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "No",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 457185.26997081656,
+
+				"NORTHING" : 345510.9999802876,
+
+				"LONG" : -1.1492961614196318,
+
+				"LAT" : 53.00388029312902,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 451721.1700112857, 340075.650022123 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Co-Op Trowell Road (Superstore)",
+
+				"ADDRESS" : "Trowell Road, Wollaton",
+
+				"BANK_TYPE" : "Igloo",
+
+				"CLEAR_GLASS" : "Yes",
+
+				"GREEN_GLASS" : "Yes",
+
+				"BROWN_GLASS" : "Yes",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "Yes",
+
+				"TEXTILES" : "Yes",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "Yes",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 451721.1700112857,
+
+				"NORTHING" : 340075.650022123,
+
+				"LONG" : -1.231579965348166,
+
+				"LAT" : 52.955579630161346,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 456612.43004360795, 336764.70996486023 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Co-Op Wilford Lane",
+
+				"ADDRESS" : "Wilford Lane, Wilford",
+
+				"BANK_TYPE" : "MRC",
+
+				"CLEAR_GLASS" : "Yes",
+
+				"GREEN_GLASS" : "Yes",
+
+				"BROWN_GLASS" : "Yes",
+
+				"MIXED" : "Yes",
+
+				"CANS_TINS" : "Yes",
+
+				"TEXTILES" : "Yes",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "Yes",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 456612.43004360795,
+
+				"NORTHING" : 336764.70996486023,
+
+				"LONG" : -1.1593573951315062,
+
+				"LAT" : 52.92532720733641,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 456119.1400201777, 335429.5400014445 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Silverdale Community Centre",
+
+				"ADDRESS" : "The Downs, Wilford",
+
+				"BANK_TYPE" : "MRC",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "No",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "Yes",
+
+				"CANS_TINS" : "Yes",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 456119.1400201777,
+
+				"NORTHING" : 335429.5400014445,
+
+				"LONG" : -1.1669244518551034,
+
+				"LAT" : 52.91337791257272,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 456306.41002907325, 339001.2199710887 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Sainsbury's Supermarket",
+
+				"ADDRESS" : "Castle Bridge Road, Castle Marina",
+
+				"BANK_TYPE" : "Igloo&MRC ",
+
+				"CLEAR_GLASS" : "Yes",
+
+				"GREEN_GLASS" : "Yes",
+
+				"BROWN_GLASS" : "Yes",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "Yes",
+
+				"TEXTILES" : "Yes",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "Yes",
+
+				"BOOKS" : "Yes",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "Yes",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 456306.41002907325,
+
+				"NORTHING" : 339001.2199710887,
+
+				"LONG" : -1.1635214845265882,
+
+				"LAT" : 52.94546173963133,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 458475.41003209446, 339743.41000634246 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Windmill Car Park",
+
+				"ADDRESS" : "Windmill Lane, Sneinton",
+
+				"BANK_TYPE" : "Node",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "No",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "Yes",
+
+				"CANS_TINS" : "Yes",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "Yes",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 458475.41003209446,
+
+				"NORTHING" : 339743.41000634246,
+
+				"LONG" : -1.1311132490806644,
+
+				"LAT" : 52.951901240866206,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 456906.38995757047, 341626.0299957618 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "New College Nottingham",
+
+				"ADDRESS" : "Pelham Avenue, Nottingham, Ng5 1al",
+
+				"BANK_TYPE" : "Igloo",
+
+				"CLEAR_GLASS" : "Yes",
+
+				"GREEN_GLASS" : "Yes",
+
+				"BROWN_GLASS" : "Yes",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "Yes",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 456906.38995757047,
+
+				"NORTHING" : 341626.0299957618,
+
+				"LONG" : -1.1541336708648735,
+
+				"LAT" : 52.96899103735254,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 458320.87002475467, 343439.41998189315 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Woodthorpe Grange",
+
+				"ADDRESS" : "Woodthorpe Drive, Woodthorpe",
+
+				"BANK_TYPE" : "Igloo",
+
+				"CLEAR_GLASS" : "Yes",
+
+				"GREEN_GLASS" : "Yes",
+
+				"BROWN_GLASS" : "Yes",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "Yes",
+
+				"TEXTILES" : "Yes",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "Yes",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 458320.87002475467,
+
+				"NORTHING" : 343439.41998189315,
+
+				"LONG" : -1.132748686003743,
+
+				"LAT" : 52.985138434935585,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 451783.74001425784, 342629.08004340343 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Seagrave Primary School",
+
+				"ADDRESS" : "Helston Drive, Strelley",
+
+				"BANK_TYPE" : "MRC",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "No",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "Yes",
+
+				"TEXTILES" : "Yes",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 451783.74001425784,
+
+				"NORTHING" : 342629.08004340343,
+
+				"LONG" : -1.2302412379766934,
+
+				"LAT" : 52.978524864304255,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 454953.1899647983, 345914.769999465 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Stanstead Primary School",
+
+				"ADDRESS" : "Stanstead Avenue, Top Valley",
+
+				"BANK_TYPE" : "Igloo&MRC ",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "No",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "Yes",
+
+				"TEXTILES" : "Yes",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "No",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 454953.1899647983,
+
+				"NORTHING" : 345914.769999465,
+
+				"LONG" : -1.182486016709939,
+
+				"LAT" : 53.00774265916766,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 458514.97003397346, 339956.4800164625 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Sneinton C.e. Primary School",
+
+				"ADDRESS" : "Windmill Lane, Sneinton",
+
+				"BANK_TYPE" : "MRC",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "No",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "Yes",
+
+				"TEXTILES" : "Yes",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 458514.97003397346,
+
+				"NORTHING" : 339956.4800164625,
+
+				"LONG" : -1.1304861151684797,
+
+				"LAT" : 52.95381205268346,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 455616.0599962827, 334515.2299580164 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Clifton Leisure Centre",
+
+				"ADDRESS" : "Southchurch Drive, Clifton",
+
+				"BANK_TYPE" : "Igloo",
+
+				"CLEAR_GLASS" : "Yes",
+
+				"GREEN_GLASS" : "Yes",
+
+				"BROWN_GLASS" : "Yes",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "Yes",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "Yes",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "No",
+
+				"SHOES" : "Yes",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 455616.0599962827,
+
+				"NORTHING" : 334515.2299580164,
+
+				"LONG" : -1.1745609760764872,
+
+				"LAT" : 52.905211953957775,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 457654.5599931069, 341295.8599800784 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Gladston Liberal Club",
+
+				"ADDRESS" : "Manning Street",
+
+				"BANK_TYPE" : "MRC",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "No",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "Yes",
+
+				"CANS_TINS" : "No",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "No",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 457654.5599931069,
+
+				"NORTHING" : 341295.8599800784,
+
+				"LONG" : -1.1430535435214686,
+
+				"LAT" : 52.96594364883132,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 454947.8799645463, 334668.39996529184 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Glapton Primary School",
+
+				"ADDRESS" : "Glapton Lane, Clifton",
+
+				"BANK_TYPE" : "MRC",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "No",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "No",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 454947.8799645463,
+
+				"NORTHING" : 334668.39996529184,
+
+				"LONG" : -1.1844685164606028,
+
+				"LAT" : 52.906657284155834,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 453392.4599906681, 338108.98002871126 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Nightingale Hall University Of Nottingham",
+
+				"ADDRESS" : "Beeston Lane, Dunkirk",
+
+				"BANK_TYPE" : "Igloo",
+
+				"CLEAR_GLASS" : "Yes",
+
+				"GREEN_GLASS" : "Yes",
+
+				"BROWN_GLASS" : "Yes",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "No",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "No",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 453392.4599906681,
+
+				"NORTHING" : 338108.98002871126,
+
+				"LONG" : -1.2070281849630236,
+
+				"LAT" : 52.93773909482124,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 457002.8199621504, 343946.4800059758 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "City Hospital (Yellow Car Park)",
+
+				"ADDRESS" : "Edwards Lane, Basford",
+
+				"BANK_TYPE" : "Igloo",
+
+				"CLEAR_GLASS" : "Yes",
+
+				"GREEN_GLASS" : "Yes",
+
+				"BROWN_GLASS" : "Yes",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "No",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 457002.8199621504,
+
+				"NORTHING" : 343946.4800059758,
+
+				"LONG" : -1.152290036984029,
+
+				"LAT" : 52.98983751036485,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 459277.2999701826, 339781.9900081735 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Greenwood Dale Comprehensive School",
+
+				"ADDRESS" : "Sneinton Boulevard, Sneinton",
+
+				"BANK_TYPE" : "MRC",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "No",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "No",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 459277.2999701826,
+
+				"NORTHING" : 339781.9900081735,
+
+				"LONG" : -1.1191724018697724,
+
+				"LAT" : 52.95216019395865,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 459848.21999729984, 340389.43003702536 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Jesse Boot School",
+
+				"ADDRESS" : "Hereford Road, Bakersfield",
+
+				"BANK_TYPE" : "MRC",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "No",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "Yes",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 459848.21999729984,
+
+				"NORTHING" : 340389.43003702536,
+
+				"LONG" : -1.1105639074196374,
+
+				"LAT" : 52.95755670578738,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 455319.69998220634, 339082.52997495234 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Car Park Behind Flats",
+
+				"ADDRESS" : "Penn Avenue",
+
+				"BANK_TYPE" : "Node",
+
+				"CLEAR_GLASS" : "Yes",
+
+				"GREEN_GLASS" : "Yes",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "Yes",
+
+				"CANS_TINS" : "Yes",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "Yes",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 455319.69998220634,
+
+				"NORTHING" : 339082.52997495234,
+
+				"LONG" : -1.1781899807097098,
+
+				"LAT" : 52.94629497299448,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 456371.11003214587, 345023.26995712146 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Robin Hood Junior School",
+
+				"ADDRESS" : "Beckhampton Road, Bestwood Park",
+
+				"BANK_TYPE" : "Industrial",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "No",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "Yes",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 456371.11003214587,
+
+				"NORTHING" : 345023.26995712146,
+
+				"LONG" : -1.1615121498193468,
+
+				"LAT" : 52.99958261193478,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 456701.49004783854, 336730.07996321656 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Maypole Pub Car Park",
+
+				"ADDRESS" : "Wilford Lane, Wilford",
+
+				"BANK_TYPE" : "Igloo",
+
+				"CLEAR_GLASS" : "Yes",
+
+				"GREEN_GLASS" : "Yes",
+
+				"BROWN_GLASS" : "Yes",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "Yes",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 456701.49004783854,
+
+				"NORTHING" : 336730.07996321656,
+
+				"LONG" : -1.1580388311785628,
+
+				"LAT" : 52.925006567134794,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 457467.47998422105, 340390.8300370928 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Junction Huntington Street/glasshouse Steet",
+
+				"ADDRESS" : "Glasshouse Street",
+
+				"BANK_TYPE" : "Node",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "No",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "Yes",
+
+				"CANS_TINS" : "Yes",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "Yes",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 457467.47998422105,
+
+				"NORTHING" : 340390.8300370928,
+
+				"LONG" : -1.1459988592630017,
+
+				"LAT" : 52.95782907653898,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 456845.6099546831, 344219.24001893215 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Lindon Lodge City Hospital",
+
+				"ADDRESS" : "Edwards Lane, Basford",
+
+				"BANK_TYPE" : "Igloo",
+
+				"CLEAR_GLASS" : "Yes",
+
+				"GREEN_GLASS" : "Yes",
+
+				"BROWN_GLASS" : "Yes",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "No",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "No",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 456845.6099546831,
+
+				"NORTHING" : 344219.24001893215,
+
+				"LONG" : -1.1545838647864597,
+
+				"LAT" : 52.99230579743851,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 455613.9799961839, 335186.9399899207 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Brinkhill Primary School",
+
+				"ADDRESS" : "Greencroft, Clifton",
+
+				"BANK_TYPE" : "MRC",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "No",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "Yes",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 455613.9799961839,
+
+				"NORTHING" : 335186.9399899207,
+
+				"LONG" : -1.1744771683570938,
+
+				"LAT" : 52.91124974672395,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 453886.14001411665, 345189.04996499605 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Gilead Street Car Park",
+
+				"ADDRESS" : "Gilead Street, Bulwell West",
+
+				"BANK_TYPE" : "Igloo",
+
+				"CLEAR_GLASS" : "Yes",
+
+				"GREEN_GLASS" : "Yes",
+
+				"BROWN_GLASS" : "Yes",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "No",
+
+				"TEXTILES" : "Yes",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 453886.14001411665,
+
+				"NORTHING" : 345189.04996499605,
+
+				"LONG" : -1.1985075313577234,
+
+				"LAT" : 53.001327889857045,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 455343.1699833218, 340841.1599584818 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Castle Retail Park",
+
+				"ADDRESS" : "Radford Boulevard, Radford",
+
+				"BANK_TYPE" : "Igloo",
+
+				"CLEAR_GLASS" : "Yes",
+
+				"GREEN_GLASS" : "Yes",
+
+				"BROWN_GLASS" : "Yes",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "Yes",
+
+				"TEXTILES" : "Yes",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 455343.1699833218,
+
+				"NORTHING" : 340841.1599584818,
+
+				"LONG" : -1.1775410098589147,
+
+				"LAT" : 52.96209966409178,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 455374.1599847935, 333854.11002661474 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Blessed Robert Winderpool R.c School",
+
+				"ADDRESS" : "Listowel Cresent, Clifton",
+
+				"BANK_TYPE" : "MRC",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "No",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "No",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 455374.1599847935,
+
+				"NORTHING" : 333854.11002661474,
+
+				"LONG" : -1.1782695298664345,
+
+				"LAT" : 52.89929447513202,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 452893.70996697806, 341502.9899899177 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Shepherd Special School",
+
+				"ADDRESS" : "Harvey Road, Bilborough",
+
+				"BANK_TYPE" : "MRC",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "No",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "No",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 452893.70996697806,
+
+				"NORTHING" : 341502.9899899177,
+
+				"LONG" : -1.213895624594371,
+
+				"LAT" : 52.96829503750189,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 457324.1599774137, 341272.1999789551 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Elms Primary School",
+
+				"ADDRESS" : "Cranmer Street, St Anns",
+
+				"BANK_TYPE" : "MRC",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "No",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "No",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 457324.1599774137,
+
+				"NORTHING" : 341272.1999789551,
+
+				"LONG" : -1.1479763954145552,
+
+				"LAT" : 52.96576633181673,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 455701.7300003525, 341235.5199772138 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Pleasant Row",
+
+				"ADDRESS" : "Radford Road, Radford",
+
+				"BANK_TYPE" : "MRC",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "No",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "Yes",
+
+				"CANS_TINS" : "Yes",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 455701.7300003525,
+
+				"NORTHING" : 341235.5199772138,
+
+				"LONG" : -1.172135870287368,
+
+				"LAT" : 52.96560724564844,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 454896.91996212583, 342404.2200327236 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Whitemoor Primary School",
+
+				"ADDRESS" : "Bracknell Crescent, Basford",
+
+				"BANK_TYPE" : "MRC",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "No",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "No",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 454896.91996212583,
+
+				"NORTHING" : 342404.2200327236,
+
+				"LONG" : -1.1839193359144502,
+
+				"LAT" : 52.97619467362047,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 453704.7600055011, 342467.1400357112 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Rosslyn Junior School",
+
+				"ADDRESS" : "Minver Crescent, Aspley",
+
+				"BANK_TYPE" : "MRC",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "No",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "Yes",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "No",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 453704.7600055011,
+
+				"NORTHING" : 342467.1400357112,
+
+				"LONG" : -1.2016610563580048,
+
+				"LAT" : 52.97688070671466,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 454082.37002343684, 343422.119981071 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Basford Hall Fe College",
+
+				"ADDRESS" : "Stockhill Lane, Basford",
+
+				"BANK_TYPE" : "Igloo",
+
+				"CLEAR_GLASS" : "Yes",
+
+				"GREEN_GLASS" : "Yes",
+
+				"BROWN_GLASS" : "Yes",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "Yes",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "No",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 454082.37002343684,
+
+				"NORTHING" : 343422.119981071,
+
+				"LONG" : -1.1958787795211792,
+
+				"LAT" : 52.98542648130582,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 453154.9499793863, 341852.1700065024 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "St. Teresa's R.c. Primary School",
+
+				"ADDRESS" : "Kingsbury Drive, Aspley",
+
+				"BANK_TYPE" : "MRC",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "No",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "Yes",
+
+				"TEXTILES" : "Yes",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "No",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 453154.9499793863,
+
+				"NORTHING" : 341852.1700065024,
+
+				"LONG" : -1.2099490593605213,
+
+				"LAT" : 52.97140781795096,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 453661.2700034352, 338550.9600497037 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Derby Hall",
+
+				"ADDRESS" : "University Of Nottingham, Beeston Lane, Dunkirk",
+
+				"BANK_TYPE" : "Igloo",
+
+				"CLEAR_GLASS" : "Yes",
+
+				"GREEN_GLASS" : "Yes",
+
+				"BROWN_GLASS" : "Yes",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "No",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "No",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 453661.2700034352,
+
+				"NORTHING" : 338550.9600497037,
+
+				"LONG" : -1.2029559791200204,
+
+				"LAT" : 52.94168503891354,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 455097.6499716602, 340404.86003775895 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Croft Nursery School",
+
+				"ADDRESS" : "Leen Place, St Peters Street, Radford",
+
+				"BANK_TYPE" : "MRC",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "No",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "No",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 455097.6499716602,
+
+				"NORTHING" : 340404.86003775895,
+
+				"LONG" : -1.181269833769867,
+
+				"LAT" : 52.95820328921784,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 454834.1599591449, 334015.27003427036 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Whitegate Primary School",
+
+				"ADDRESS" : "Middlefell Way, Clifton",
+
+				"BANK_TYPE" : "MRC",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "No",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "No",
+
+				"TEXTILES" : "Yes",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 454834.1599591449,
+
+				"NORTHING" : 334015.27003427036,
+
+				"LONG" : -1.1862691324140409,
+
+				"LAT" : 52.90079827871386,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 455568.4699940225, 339823.44001014344 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Sandfield Teachers Centre",
+
+				"ADDRESS" : "Sandfield Road, Lenton",
+
+				"BANK_TYPE" : "MRC",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "No",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "No",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 455568.4699940225,
+
+				"NORTHING" : 339823.44001014344,
+
+				"LONG" : -1.1743614321273665,
+
+				"LAT" : 52.9529288542527,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 455297.6099811578, 344830.1900479514 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Gala Way Bingo Club",
+
+				"ADDRESS" : "Gala Way, Top Valley",
+
+				"BANK_TYPE" : "Igloo",
+
+				"CLEAR_GLASS" : "Yes",
+
+				"GREEN_GLASS" : "Yes",
+
+				"BROWN_GLASS" : "Yes",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "Yes",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 455297.6099811578,
+
+				"NORTHING" : 344830.1900479514,
+
+				"LONG" : -1.1775388652892806,
+
+				"LAT" : 52.99795882356651,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 458845.20004965924, 341498.8999897223 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Pearmain Drive/woodlane Crescent",
+
+				"ADDRESS" : "Pearmain Drive",
+
+				"BANK_TYPE" : "Igloo",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "No",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "No",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "No",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 458845.20004965924,
+
+				"NORTHING" : 341498.8999897223,
+
+				"LONG" : -1.125291720059926,
+
+				"LAT" : 52.96763955029471,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 457647.48999277037, 343539.9499866683 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Sherwood Community Centre",
+
+				"ADDRESS" : "Mansfield Road, Sherwood",
+
+				"BANK_TYPE" : "MRC",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "No",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "Yes",
+
+				"CANS_TINS" : "Yes",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 457647.48999277037,
+
+				"NORTHING" : 343539.9499866683,
+
+				"LONG" : -1.1427598535710473,
+
+				"LAT" : 52.98611472255195,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 455676.99999917764, 335160.019988643 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Greencroft Primary School",
+
+				"ADDRESS" : "Greencroft, Clifton",
+
+				"BANK_TYPE" : "MRC",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "No",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "Yes",
+
+				"TEXTILES" : "Yes",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "Yes",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 455676.99999917764,
+
+				"NORTHING" : 335160.019988643,
+
+				"LONG" : -1.1735447680572846,
+
+				"LAT" : 52.91100126799275,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 451822.0800160784, 339856.4200117085 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Fernwood Comprehensive School",
+
+				"ADDRESS" : "Goodwood Road, Wollaton",
+
+				"BANK_TYPE" : "MRC",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "No",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "No",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "No",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 451822.0800160784,
+
+				"NORTHING" : 339856.4200117085,
+
+				"LONG" : -1.2301130267675502,
+
+				"LAT" : 52.95359938333336,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 457503.95998595376, 340740.979953723 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Huntingdon Primary School",
+
+				"ADDRESS" : "Alfred St Central, Woodborough Rd, St Anns",
+
+				"BANK_TYPE" : "MRC",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "No",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "Yes",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 457503.95998595376,
+
+				"NORTHING" : 340740.979953723,
+
+				"LONG" : -1.1453938515555724,
+
+				"LAT" : 52.96097240161503,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 453605.36000077985, 338542.59004930593 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Sherwood Hall",
+
+				"ADDRESS" : "Nottingham University, Beeston Lane, Dunkirk",
+
+				"BANK_TYPE" : "Igloo",
+
+				"CLEAR_GLASS" : "Yes",
+
+				"GREEN_GLASS" : "Yes",
+
+				"BROWN_GLASS" : "Yes",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "No",
+
+				"TEXTILES" : "Yes",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "No",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 453605.36000077985,
+
+				"NORTHING" : 338542.59004930593,
+
+				"LONG" : -1.2037892393281606,
+
+				"LAT" : 52.941615380204645,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 456966.0799604058, 344222.8800191041 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "City Hospital (Purple Car Park)",
+
+				"ADDRESS" : "Edwards Lane, Basford",
+
+				"BANK_TYPE" : "Igloo",
+
+				"CLEAR_GLASS" : "Yes",
+
+				"GREEN_GLASS" : "Yes",
+
+				"BROWN_GLASS" : "Yes",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "No",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "No",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 456966.0799604058,
+
+				"NORTHING" : 344222.8800191041,
+
+				"LONG" : -1.1527886905720404,
+
+				"LAT" : 52.99232574620686,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 458032.5300110588, 340031.9100200441 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Sneinton Market",
+
+				"ADDRESS" : "Bath Street, Sneinton",
+
+				"BANK_TYPE" : "Node",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "No",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "Yes",
+
+				"CANS_TINS" : "Yes",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "Yes",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 458032.5300110588,
+
+				"NORTHING" : 340031.9100200441,
+
+				"LONG" : -1.1376526980243065,
+
+				"LAT" : 52.95454232508593,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 456919.9799582157, 342035.55001521297 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Carrington Primary School",
+
+				"ADDRESS" : "Jenner Street, Carrington",
+
+				"BANK_TYPE" : "MRC",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "No",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "Yes",
+
+				"TEXTILES" : "Yes",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 456919.9799582157,
+
+				"NORTHING" : 342035.55001521297,
+
+				"LONG" : -1.1538594823992996,
+
+				"LAT" : 52.97267045689666,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 454236.01003073435, 345396.26997483894 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Kwik Save Supermarket",
+
+				"ADDRESS" : "Spring Road",
+
+				"BANK_TYPE" : "Igloo",
+
+				"CLEAR_GLASS" : "Yes",
+
+				"GREEN_GLASS" : "Yes",
+
+				"BROWN_GLASS" : "Yes",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "No",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 454236.01003073435,
+
+				"NORTHING" : 345396.26997483894,
+
+				"LONG" : -1.1932599817413252,
+
+				"LAT" : 53.00315520334742,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 457613.13999113906, 338197.240032902 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "The Kings School",
+
+				"ADDRESS" : "Ford Cres West/collygate Rd, Meadows",
+
+				"BANK_TYPE" : "MRC",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "No",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "Yes",
+
+				"TEXTILES" : "Yes",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "No",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 457613.13999113906,
+
+				"NORTHING" : 338197.240032902,
+
+				"LONG" : -1.1442199053537538,
+
+				"LAT" : 52.93809697468489,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 455231.25997800566, 337654.4600071218 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Household Waste And Recycling Centre",
+
+				"ADDRESS" : "Redfield Road, Lenton",
+
+				"BANK_TYPE" : "HWRC",
+
+				"CLEAR_GLASS" : "Yes",
+
+				"GREEN_GLASS" : "Yes",
+
+				"BROWN_GLASS" : "Yes",
+
+				"MIXED" : "Yes",
+
+				"CANS_TINS" : "Yes",
+
+				"TEXTILES" : "Yes",
+
+				"OIL" : "Yes",
+
+				"PLASTIC" : "Yes",
+
+				"LITTER" : "Yes",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 455231.25997800566,
+
+				"NORTHING" : 337654.4600071218,
+
+				"LONG" : -1.1797486936184844,
+
+				"LAT" : 52.93346809410153,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 458098.99001421593, 342421.32003353536 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "St Judes Church",
+
+				"ADDRESS" : "Woodborough Road",
+
+				"BANK_TYPE" : "MRC",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "No",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "Yes",
+
+				"CANS_TINS" : "Yes",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 458098.99001421593,
+
+				"NORTHING" : 342421.32003353536,
+
+				"LONG" : -1.1362357337601374,
+
+				"LAT" : 52.97601162918963,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 454310.49003427196, 346007.89000388794 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Ken Martin's Baths",
+
+				"ADDRESS" : "Sandhurst Road, Bulwell East",
+
+				"BANK_TYPE" : "MRC",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "No",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "No",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "No",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 454310.49003427196,
+
+				"NORTHING" : 346007.89000388794,
+
+				"LONG" : -1.1920476252965087,
+
+				"LAT" : 53.00864507237867,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 458677.91004171316, 341040.17996793427 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "St Edwards Rc Primary School",
+
+				"ADDRESS" : "Gordon Road, St Anns",
+
+				"BANK_TYPE" : "MRC",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "No",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "Yes",
+
+				"TEXTILES" : "Yes",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 458677.91004171316,
+
+				"NORTHING" : 341040.17996793427,
+
+				"LONG" : -1.127865212169255,
+
+				"LAT" : 52.96353478878763,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 457440.3299829308, 338721.12995778583 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Bridgway Centre (Shopping)",
+
+				"ADDRESS" : "Sherriffs Way, Meadows",
+
+				"BANK_TYPE" : "Igloo",
+
+				"CLEAR_GLASS" : "Yes",
+
+				"GREEN_GLASS" : "Yes",
+
+				"BROWN_GLASS" : "Yes",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "Yes",
+
+				"TEXTILES" : "Yes",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "No",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 457440.3299829308,
+
+				"NORTHING" : 338721.12995778583,
+
+				"LONG" : -1.1466982761086815,
+
+				"LAT" : 52.94282431141096,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 453793.8900097348, 343871.69000242464 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Headstocks Public House",
+
+				"ADDRESS" : "Cinderhill Road, Ng6 8se",
+
+				"BANK_TYPE" : "Igloo",
+
+				"CLEAR_GLASS" : "Yes",
+
+				"GREEN_GLASS" : "Yes",
+
+				"BROWN_GLASS" : "Yes",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "No",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 453793.8900097348,
+
+				"NORTHING" : 343871.69000242464,
+
+				"LONG" : -1.2001007569329838,
+
+				"LAT" : 52.98949632432944,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 457668.6599937761, 338513.3500479162 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Arkwright Primary School",
+
+				"ADDRESS" : "Orange Gardens, Wilford Grove, Meadows",
+
+				"BANK_TYPE" : "MRC",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "No",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "Yes",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 457668.6599937761,
+
+				"NORTHING" : 338513.3500479162,
+
+				"LONG" : -1.143337814161746,
+
+				"LAT" : 52.94093230163829,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 455782.9200042086, 341455.05998764 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Asda Car Park",
+
+				"ADDRESS" : "Radford Road, Radford",
+
+				"BANK_TYPE" : "Igloo&MRC ",
+
+				"CLEAR_GLASS" : "Yes",
+
+				"GREEN_GLASS" : "Yes",
+
+				"BROWN_GLASS" : "Yes",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "Yes",
+
+				"TEXTILES" : "Yes",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "Yes",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "Yes",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 455782.9200042086,
+
+				"NORTHING" : 341455.05998764,
+
+				"LONG" : -1.1708894524737057,
+
+				"LAT" : 52.96757211042025,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 456219.44002494216, 337136.36998251453 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Queens Drive Park And Ride",
+
+				"ADDRESS" : "Queens Drive, Queens Drive",
+
+				"BANK_TYPE" : "Igloo",
+
+				"CLEAR_GLASS" : "Yes",
+
+				"GREEN_GLASS" : "Yes",
+
+				"BROWN_GLASS" : "Yes",
+
+				"MIXED" : "No",
+
+				"CANS_TINS" : "No",
+
+				"TEXTILES" : "Yes",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 456219.44002494216,
+
+				"NORTHING" : 337136.36998251453,
+
+				"LONG" : -1.1651381500359494,
+
+				"LAT" : 52.92870899922641,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		},
+
+		{
+
+			"type" : "Feature",
+
+			"geometry" : {
+
+				"type" : "Point",
+
+				"coordinates" : [ 457113.06996738724, 342856.4499542024 ]
+
+			},
+
+			"properties" : {
+
+				"NAME" : "Haydn Primary School",
+
+				"ADDRESS" : "Haydn Road, Sherwood",
+
+				"BANK_TYPE" : "MRC",
+
+				"CLEAR_GLASS" : "No",
+
+				"GREEN_GLASS" : "No",
+
+				"BROWN_GLASS" : "No",
+
+				"MIXED" : "Yes",
+
+				"CANS_TINS" : "Yes",
+
+				"TEXTILES" : "No",
+
+				"OIL" : "No",
+
+				"PLASTIC" : "No",
+
+				"LITTER" : "No",
+
+				"CARTON_TETRAPAK" : "No",
+
+				"BOOKS" : "No",
+
+				"PAPER" : "Yes",
+
+				"SHOES" : "No",
+
+				"DISTRICT" : "Nottingham",
+
+				"WEBSITE" : "http://beta.nottinghamcity.gov.uk/bin-and-rubbish-collections/your-local-recycling-sites/",
+
+				"EASTING" : 457113.06996738724,
+
+				"NORTHING" : 342856.4499542024,
+
+				"LONG" : -1.1508399160363647,
+
+				"LAT" : 52.98002838891101,
+
+				"BODY_NAME" : "Nottingham City Council",
+
+				"BODY" : "http://data.ordnancesurvey.co.uk/doc/7000000000038857\n",
+
+				"CREATE_DAT" : "20210706"
+
+			}
+
+		}
+
+	]
+
+}
