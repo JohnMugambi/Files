@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2022-10-13T22:26:21.585Z" agent="5.0 (Windows)" version="20.4.0" etag="WaJCr-XmRvwiRgb1ziAs" type="github"><diagram id="eiMluWibm3l4h9YvHj2A">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-13T22:29:21.034Z" agent="5.0 (Windows)" etag="c6HexCbYRYSxsFZz5i7l" version="20.4.0" type="github">
+  <diagram id="eiMluWibm3l4h9YvHj2A" name="Page-1">
+    <mxGraphModel dx="768" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iejyOPDeLpldSfY0Cp5H-1" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="120" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iejyOPDeLpldSfY0Cp5H-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="80" width="410" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="iejyOPDeLpldSfY0Cp5H-3" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="260" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iejyOPDeLpldSfY0Cp5H-6" value="Roommate Recommender System" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="245" y="80" width="240" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
