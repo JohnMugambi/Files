@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-02T10:13:48.032Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="00gsqgWgxya_gplUkIkx" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-02T10:14:48.710Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="7FG6LxbF-ZbhYa9uzN8U" version="22.0.8" type="github">
   <diagram name="Page-1" id="xLq2jwFp_ARoWud2Op0O">
     <mxGraphModel dx="1039" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -44,10 +44,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5dGqJFT16gJnDdkuXEt8-17" value="API Server" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="561" y="380" width="80" height="80" as="geometry" />
+          <mxGeometry x="561" y="615" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5dGqJFT16gJnDdkuXEt8-18" value="Database" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="731" y="380" width="60" height="80" as="geometry" />
+          <mxGeometry x="750" y="615" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5dGqJFT16gJnDdkuXEt8-19" value="Supervisee performance review" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="151" y="750" width="260" height="30" as="geometry" />
@@ -80,34 +80,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5dGqJFT16gJnDdkuXEt8-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="131" y="890" width="360" height="300" as="geometry" />
+          <mxGeometry x="131" y="890" width="360" height="250" as="geometry" />
         </mxCell>
         <mxCell id="5dGqJFT16gJnDdkuXEt8-31" value="HR Module" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="141" y="900" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5dGqJFT16gJnDdkuXEt8-32" value="Performance data analysis" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="5dGqJFT16gJnDdkuXEt8-32" value="Performance data analysis and Reporting" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="151" y="940" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5dGqJFT16gJnDdkuXEt8-33" value="Training and developement" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="151" y="990" width="260" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5dGqJFT16gJnDdkuXEt8-34" value="Reporting" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="151" y="1040" width="260" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="5dGqJFT16gJnDdkuXEt8-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5dGqJFT16gJnDdkuXEt8-36" target="5dGqJFT16gJnDdkuXEt8-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5dGqJFT16gJnDdkuXEt8-36" value="API Server" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="571" y="1000" width="80" height="80" as="geometry" />
+          <mxGeometry x="571" y="975" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5dGqJFT16gJnDdkuXEt8-37" value="Database" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="741" y="1000" width="60" height="80" as="geometry" />
+          <mxGeometry x="741" y="975" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5dGqJFT16gJnDdkuXEt8-38" value="Performance calibration" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="151" y="1090" width="260" height="30" as="geometry" />
+          <mxGeometry x="151" y="1040" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5dGqJFT16gJnDdkuXEt8-39" value="Record keeping" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="151" y="1140" width="260" height="30" as="geometry" />
+          <mxGeometry x="151" y="1090" width="260" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
