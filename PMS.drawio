@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-24T06:58:23.955Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="I1rYYN2QOlSmT__Yqvwm" version="24.4.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-28T06:31:18.465Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="Kpb01t8MawJH3Dja5ntK" version="24.4.7" type="github" pages="3">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="3635" dy="2605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFFF" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -1684,6 +1684,107 @@
         </mxCell>
         <mxCell id="UXv_mtHKXsUwHe4orzrp-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UXv_mtHKXsUwHe4orzrp-24" target="UXv_mtHKXsUwHe4orzrp-26">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="zTMFQAg1BdjqXC73IYEc" name="CreateAppraisalCycle">
+    <mxGraphModel dx="-527" dy="1734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sQL9gngvKbCb1LvCCjFV-1" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="-140" width="1340" height="1150" as="geometry">
+            <mxRectangle x="-220" y="-150" width="50" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sQL9gngvKbCb1LvCCjFV-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="sQL9gngvKbCb1LvCCjFV-1" source="sQL9gngvKbCb1LvCCjFV-3" target="sQL9gngvKbCb1LvCCjFV-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sQL9gngvKbCb1LvCCjFV-3" value="Start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="sQL9gngvKbCb1LvCCjFV-1">
+          <mxGeometry x="649" y="100" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sQL9gngvKbCb1LvCCjFV-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="sQL9gngvKbCb1LvCCjFV-1" source="sQL9gngvKbCb1LvCCjFV-5" target="sQL9gngvKbCb1LvCCjFV-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sQL9gngvKbCb1LvCCjFV-5" value="Check appraisal cycle configuration" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="sQL9gngvKbCb1LvCCjFV-1">
+          <mxGeometry x="629" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sQL9gngvKbCb1LvCCjFV-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="sQL9gngvKbCb1LvCCjFV-1" source="sQL9gngvKbCb1LvCCjFV-7" target="sQL9gngvKbCb1LvCCjFV-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sQL9gngvKbCb1LvCCjFV-7" value="Generate start and end dates using config value" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="sQL9gngvKbCb1LvCCjFV-1">
+          <mxGeometry x="629" y="422" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sQL9gngvKbCb1LvCCjFV-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="sQL9gngvKbCb1LvCCjFV-1" source="sQL9gngvKbCb1LvCCjFV-10" target="sQL9gngvKbCb1LvCCjFV-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sQL9gngvKbCb1LvCCjFV-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="sQL9gngvKbCb1LvCCjFV-1" source="sQL9gngvKbCb1LvCCjFV-10" target="sQL9gngvKbCb1LvCCjFV-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sQL9gngvKbCb1LvCCjFV-10" value="&lt;div&gt;Is config&amp;nbsp;&lt;/div&gt;&lt;div&gt;value&amp;nbsp;&lt;/div&gt;&lt;div&gt;correct?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="sQL9gngvKbCb1LvCCjFV-1">
+          <mxGeometry x="649" y="310" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sQL9gngvKbCb1LvCCjFV-11" value="&lt;div&gt;A&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="sQL9gngvKbCb1LvCCjFV-1">
+          <mxGeometry x="480" y="330" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sQL9gngvKbCb1LvCCjFV-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="sQL9gngvKbCb1LvCCjFV-1" source="sQL9gngvKbCb1LvCCjFV-13" target="sQL9gngvKbCb1LvCCjFV-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sQL9gngvKbCb1LvCCjFV-13" value="Enter appraisal cycle details (Start, end date, name, desc)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="sQL9gngvKbCb1LvCCjFV-1">
+          <mxGeometry x="629" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sQL9gngvKbCb1LvCCjFV-14" value="Creating appraisal cycle periods" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="sQL9gngvKbCb1LvCCjFV-1">
+          <mxGeometry x="560" y="50" width="271" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sQL9gngvKbCb1LvCCjFV-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="sQL9gngvKbCb1LvCCjFV-1" source="sQL9gngvKbCb1LvCCjFV-16" target="sQL9gngvKbCb1LvCCjFV-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sQL9gngvKbCb1LvCCjFV-16" value="Save appraisal cycle details" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="sQL9gngvKbCb1LvCCjFV-1">
+          <mxGeometry x="629" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sQL9gngvKbCb1LvCCjFV-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="sQL9gngvKbCb1LvCCjFV-1" source="sQL9gngvKbCb1LvCCjFV-19" target="sQL9gngvKbCb1LvCCjFV-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sQL9gngvKbCb1LvCCjFV-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="sQL9gngvKbCb1LvCCjFV-1" source="sQL9gngvKbCb1LvCCjFV-19" target="sQL9gngvKbCb1LvCCjFV-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sQL9gngvKbCb1LvCCjFV-19" value="&lt;div&gt;Is there&amp;nbsp;&lt;/div&gt;&lt;div&gt;existing active&amp;nbsp;&lt;/div&gt;&lt;div&gt;appraisal&amp;nbsp;&lt;/div&gt;&lt;div&gt;cycle between start&amp;nbsp;&lt;/div&gt;&lt;div&gt;and end&amp;nbsp;&lt;/div&gt;&lt;div&gt;date?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="sQL9gngvKbCb1LvCCjFV-1">
+          <mxGeometry x="623.5" y="620" width="131" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="sQL9gngvKbCb1LvCCjFV-20" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="sQL9gngvKbCb1LvCCjFV-1">
+          <mxGeometry x="689" y="770" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sQL9gngvKbCb1LvCCjFV-21" value="Yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="sQL9gngvKbCb1LvCCjFV-1">
+          <mxGeometry x="573" y="660" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sQL9gngvKbCb1LvCCjFV-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="sQL9gngvKbCb1LvCCjFV-1" source="sQL9gngvKbCb1LvCCjFV-23" target="sQL9gngvKbCb1LvCCjFV-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sQL9gngvKbCb1LvCCjFV-23" value="Delete or close &lt;br&gt;existing cycle." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="sQL9gngvKbCb1LvCCjFV-1">
+          <mxGeometry x="460" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sQL9gngvKbCb1LvCCjFV-24" value="A" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="sQL9gngvKbCb1LvCCjFV-1">
+          <mxGeometry x="400" y="670" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sQL9gngvKbCb1LvCCjFV-25" value="Generate performance review for all employees" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="sQL9gngvKbCb1LvCCjFV-1">
+          <mxGeometry x="629" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sQL9gngvKbCb1LvCCjFV-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="sQL9gngvKbCb1LvCCjFV-1" source="sQL9gngvKbCb1LvCCjFV-28" target="sQL9gngvKbCb1LvCCjFV-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sQL9gngvKbCb1LvCCjFV-28" value="Notify all users of new appraisal cycle" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="sQL9gngvKbCb1LvCCjFV-1">
+          <mxGeometry x="633" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sQL9gngvKbCb1LvCCjFV-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="sQL9gngvKbCb1LvCCjFV-1" source="sQL9gngvKbCb1LvCCjFV-25" target="sQL9gngvKbCb1LvCCjFV-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sQL9gngvKbCb1LvCCjFV-29" value="Stop" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="sQL9gngvKbCb1LvCCjFV-1">
+          <mxGeometry x="870" y="1030" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
