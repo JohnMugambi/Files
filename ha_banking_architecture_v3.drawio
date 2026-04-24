@@ -164,7 +164,7 @@
         <mxCell id="F651oKN17QoxLRZEP95e-22" parent="r2_pt" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;br&gt;&lt;b&gt;API Server 1&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="60" y="179" as="geometry" />
         </mxCell>
-        <mxCell id="F651oKN17QoxLRZEP95e-23" parent="r2_pt" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;App Server 2&lt;/b&gt;" vertex="1">
+        <mxCell id="F651oKN17QoxLRZEP95e-23" parent="r2_pt" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;ESB Server 2&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="560" y="179" as="geometry" />
         </mxCell>
         <mxCell id="r2_at" parent="r2" style="swimlane;startSize=22;fillColor=#fff9c4;strokeColor=#d6b656;fontStyle=1;fontSize=10;dashed=1;fontColor=#7A5500;" value="Application Tier" vertex="1">
@@ -277,7 +277,7 @@
         <mxCell id="e_glb_r2lb" edge="1" parent="1" source="glb" style="edgeStyle=orthogonalEdgeStyle;strokeColor=#b85450;strokeWidth=2;" target="r2_lb">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="notes" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#aaaaaa;fontColor=#333333;fontSize=11;align=left;spacingLeft=10;" value="&lt;b&gt;Notes&lt;/b&gt;&lt;br&gt;&lt;div&gt;Total Servers: 12&lt;/div&gt;Using our ESB may require adding 2 servers in each of the regions.&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="notes" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#aaaaaa;fontColor=#333333;fontSize=11;align=left;spacingLeft=10;" value="&lt;b&gt;Notes&lt;/b&gt;&lt;br&gt;&lt;div&gt;Total Servers: 16&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="90" width="1000" x="30" y="1380" as="geometry" />
         </mxCell>
       </root>
