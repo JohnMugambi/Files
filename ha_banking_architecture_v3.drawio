@@ -1,0 +1,234 @@
+<mxfile host="app.diagrams.net">
+  <diagram id="ha_banking_fixed" name="HA Banking Architecture">
+    <mxGraphModel dx="1229" dy="2099" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2200" pageHeight="1400" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="users" parent="1" style="shape=mxgraph.cisco.computers_and_peripherals.pc;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;fontSize=12;fontStyle=1;" value="Internet / Mobile Users" vertex="1">
+          <mxGeometry height="60" width="80" x="730" as="geometry" />
+        </mxCell>
+        <mxCell id="glb" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontColor=#6C0000;fontSize=11;" value="&lt;b&gt;OCI DNS Traffic Management&lt;/b&gt;&lt;br&gt;Failover policy → DR on outage" vertex="1">
+          <mxGeometry height="65" width="340" x="600" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="e_users_glb" edge="1" parent="1" source="users" style="edgeStyle=orthogonalEdgeStyle;strokeColor=#555555;strokeWidth=1.5;" target="glb">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oci" parent="1" style="swimlane;startSize=35;fillColor=#f9f9f9;strokeColor=#999999;fontStyle=1;fontSize=14;strokeWidth=2;fontColor=#333333;" value="" vertex="1">
+          <mxGeometry height="1090" width="1450" x="30" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="prod_outer" parent="oci" style="swimlane;startSize=30;fillColor=#fffde7;strokeColor=#d6b656;fontStyle=1;fontSize=12;dashed=1;strokeWidth=2;fontColor=#7A5500;" value="Active-Active Production (Region 1 &amp; Region 2)" vertex="1">
+          <mxGeometry height="1010" width="1400" x="30" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="r1" parent="prod_outer" style="swimlane;startSize=28;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=12;fontColor=#00337A;" value="Production Region 1 (Active) - South Africa" vertex="1">
+          <mxGeometry height="950" width="660" x="20" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="r1_lb" parent="r1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontColor=#6C0000;fontSize=11;" value="&lt;b&gt;Regional Load Balancer&lt;/b&gt;&lt;br&gt;OCI LB — distributes within Region 1" vertex="1">
+          <mxGeometry height="50" width="300" x="180" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="r1_pt" parent="r1" style="swimlane;startSize=22;fillColor=#fff9c4;strokeColor=#d6b656;fontStyle=1;fontSize=10;dashed=1;fontColor=#7A5500;" value="Presentation Tier" vertex="1">
+          <mxGeometry height="100" width="620" x="20" y="125" as="geometry" />
+        </mxCell>
+        <mxCell id="r1_fe1" parent="r1_pt" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#00337A;fontSize=11;" value="Internet / Mobile App" vertex="1">
+          <mxGeometry height="52" width="200" x="60" y="28" as="geometry" />
+        </mxCell>
+        <mxCell id="r1_fe2" parent="r1_pt" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#00337A;fontSize=11;" value="Internet / Mobile App" vertex="1">
+          <mxGeometry height="52" width="200" x="360" y="28" as="geometry" />
+        </mxCell>
+        <mxCell id="F651oKN17QoxLRZEP95e-1" parent="r1_pt" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&#xa;&lt;b&gt;Frontend Server 1&lt;/b&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="30" width="60" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="F651oKN17QoxLRZEP95e-6" parent="r1_pt" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Frontend Server 2&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="560" y="39" as="geometry" />
+        </mxCell>
+        <mxCell id="r1_at" parent="r1" style="swimlane;startSize=22;fillColor=#fff9c4;strokeColor=#d6b656;fontStyle=1;fontSize=10;dashed=1;fontColor=#7A5500;" value="Application Tier" vertex="1">
+          <mxGeometry height="110" width="620" x="20" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="r1_app1" parent="r1_at" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#00337A;fontSize=11;" value="API Gateway + ESB" vertex="1">
+          <mxGeometry height="55" width="200" x="60" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r1_app2" parent="r1_at" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#00337A;fontSize=11;" value="API Gateway + ESB" vertex="1">
+          <mxGeometry height="55" width="200" x="360" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F651oKN17QoxLRZEP95e-4" parent="r1_at" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;br&gt;&lt;b&gt;App Server 1&lt;/b&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="F651oKN17QoxLRZEP95e-3" parent="r1_at" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;App Server 2&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="560" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="r1_dt" parent="r1" style="swimlane;startSize=22;fillColor=#fff9c4;strokeColor=#d6b656;fontStyle=1;fontSize=10;dashed=1;fontColor=#7A5500;" value="Database Tier" vertex="1">
+          <mxGeometry height="285" width="620" x="20" y="405" as="geometry" />
+        </mxCell>
+        <mxCell id="r1_ibdb1" parent="r1_dt" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#00337A;fontSize=11;" value="OCI Autonomous DB" vertex="1">
+          <mxGeometry height="55" width="190" x="60" y="35" as="geometry" />
+        </mxCell>
+        <mxCell id="r1_ibdb2" parent="r1_dt" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#00337A;fontSize=11;" value="OCI Autonomous DB" vertex="1">
+          <mxGeometry height="55" width="190" x="370" y="35" as="geometry" />
+        </mxCell>
+        <mxCell id="r1_ibdb_sync" edge="1" parent="r1_dt" source="r1_ibdb1" style="endArrow=open;startArrow=open;endFill=0;startFill=0;strokeColor=#6c8ebf;strokeWidth=1.5;dashed=1;fontSize=9;fontColor=#00337A;" target="r1_ibdb2" value="Data Guard sync">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r1_ibdb_lbl" parent="r1_dt" style="text;html=1;align=center;fontSize=10;fontStyle=1;fontColor=#00337A;" value="IB Database (OCI RAC / Data Guard)" vertex="1">
+          <mxGeometry height="18" width="300" x="160" y="96" as="geometry" />
+        </mxCell>
+        <mxCell id="r1_core1" parent="r1_dt" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#00337A;fontSize=11;" value="Core Banking System" vertex="1">
+          <mxGeometry height="55" width="190" x="60" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="r1_core2" parent="r1_dt" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#00337A;fontSize=11;" value="Core Banking System" vertex="1">
+          <mxGeometry height="55" width="190" x="370" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="e_r1_ibdb1_core1" edge="1" parent="r1_dt" source="r1_ibdb1" style="edgeStyle=orthogonalEdgeStyle;strokeColor=#6c8ebf;strokeWidth=1.5;dashed=1;" target="r1_core1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="155" y="200" />
+              <mxPoint x="155" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_r1_ibdb2_core2" edge="1" parent="r1_dt" source="r1_ibdb2" style="edgeStyle=orthogonalEdgeStyle;strokeColor=#6c8ebf;strokeWidth=1.5;dashed=1;" target="r1_core2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="465" y="200" />
+              <mxPoint x="465" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F651oKN17QoxLRZEP95e-5" parent="r1_dt" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;br&gt;&lt;b&gt;IB DB Server 1&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="F651oKN17QoxLRZEP95e-7" parent="r1_dt" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;IB DB Server 2&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="560" y="84" as="geometry" />
+        </mxCell>
+        <mxCell id="e_r1_lb_fe1" edge="1" parent="r1" source="r1_lb" style="edgeStyle=orthogonalEdgeStyle;strokeColor=#b85450;strokeWidth=1.5;" target="r1_fe1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_r1_lb_fe2" edge="1" parent="r1" source="r1_lb" style="edgeStyle=orthogonalEdgeStyle;strokeColor=#b85450;strokeWidth=1.5;" target="r1_fe2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_r1_fe1_app1" edge="1" parent="r1" source="r1_fe1" style="edgeStyle=orthogonalEdgeStyle;strokeColor=#6c8ebf;strokeWidth=1.5;" target="r1_app1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_r1_fe2_app2" edge="1" parent="r1" source="r1_fe2" style="edgeStyle=orthogonalEdgeStyle;strokeColor=#6c8ebf;strokeWidth=1.5;" target="r1_app2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_r1_app1_ibdb1" edge="1" parent="r1" source="r1_app1" style="edgeStyle=orthogonalEdgeStyle;strokeColor=#6c8ebf;strokeWidth=1.5;" target="r1_ibdb1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_r1_app2_ibdb2" edge="1" parent="r1" source="r1_app2" style="edgeStyle=orthogonalEdgeStyle;strokeColor=#6c8ebf;strokeWidth=1.5;" target="r1_ibdb2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r2" parent="prod_outer" style="swimlane;startSize=28;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=12;fontColor=#1D4E1D;" value="DR Region 2 (Active) - United Kingdom" vertex="1">
+          <mxGeometry height="950" width="660" x="720" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="r2_lb" parent="r2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontColor=#6C0000;fontSize=11;" value="&lt;b&gt;Regional Load Balancer&lt;/b&gt;&lt;br&gt;OCI LB — distributes within Region 2" vertex="1">
+          <mxGeometry height="50" width="300" x="180" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="r2_pt" parent="r2" style="swimlane;startSize=22;fillColor=#fff9c4;strokeColor=#d6b656;fontStyle=1;fontSize=10;dashed=1;fontColor=#7A5500;" value="Presentation Tier" vertex="1">
+          <mxGeometry height="395" width="620" x="20" y="125" as="geometry" />
+        </mxCell>
+        <mxCell id="r2_fe1" parent="r2_pt" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#1D4E1D;fontSize=11;" value="&lt;b&gt;Frontend Server 1&lt;/b&gt;&lt;br&gt;Internet / Mobile App" vertex="1">
+          <mxGeometry height="52" width="200" x="60" y="28" as="geometry" />
+        </mxCell>
+        <mxCell id="r2_fe2" parent="r2_pt" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#1D4E1D;fontSize=11;" value="&lt;b&gt;Frontend Server 2&lt;/b&gt;&lt;br&gt;Internet / Mobile App" vertex="1">
+          <mxGeometry height="52" width="200" x="360" y="28" as="geometry" />
+        </mxCell>
+        <mxCell id="F651oKN17QoxLRZEP95e-20" parent="r2_pt" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&#xa;&lt;b&gt;Frontend Server 1&lt;/b&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="30" width="60" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="F651oKN17QoxLRZEP95e-21" parent="r2_pt" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Frontend Server 2&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="560" y="38" as="geometry" />
+        </mxCell>
+        <mxCell id="F651oKN17QoxLRZEP95e-22" parent="r2_pt" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;br&gt;&lt;b&gt;App Server 1&lt;/b&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" y="179" as="geometry" />
+        </mxCell>
+        <mxCell id="F651oKN17QoxLRZEP95e-23" parent="r2_pt" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;App Server 2&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="560" y="179" as="geometry" />
+        </mxCell>
+        <mxCell id="r2_at" parent="r2" style="swimlane;startSize=22;fillColor=#fff9c4;strokeColor=#d6b656;fontStyle=1;fontSize=10;dashed=1;fontColor=#7A5500;" value="Application Tier" vertex="1">
+          <mxGeometry height="110" width="620" x="20" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="r2_app1" parent="r2_at" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#1D4E1D;fontSize=11;" value="&lt;b&gt;App Server 1&lt;/b&gt;&lt;br&gt;API Gateway + ESB" vertex="1">
+          <mxGeometry height="55" width="200" x="60" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r2_app2" parent="r2_at" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#1D4E1D;fontSize=11;" value="&lt;b&gt;App Server 2&lt;/b&gt;&lt;br&gt;API Gateway + ESB" vertex="1">
+          <mxGeometry height="55" width="200" x="360" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r2_dt" parent="r2" style="swimlane;startSize=22;fillColor=#fff9c4;strokeColor=#d6b656;fontStyle=1;fontSize=10;dashed=1;fontColor=#7A5500;" value="Database Tier" vertex="1">
+          <mxGeometry height="285" width="620" x="20" y="405" as="geometry" />
+        </mxCell>
+        <mxCell id="r2_ibdb1" parent="r2_dt" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#1D4E1D;fontSize=11;" value="&lt;b&gt;IB DB Node 1&lt;/b&gt;&lt;br&gt;OCI Autonomous DB" vertex="1">
+          <mxGeometry height="55" width="190" x="60" y="35" as="geometry" />
+        </mxCell>
+        <mxCell id="r2_ibdb2" parent="r2_dt" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#1D4E1D;fontSize=11;" value="&lt;b&gt;IB DB Node 2&lt;/b&gt;&lt;br&gt;OCI Autonomous DB" vertex="1">
+          <mxGeometry height="55" width="190" x="370" y="35" as="geometry" />
+        </mxCell>
+        <mxCell id="r2_ibdb_sync" edge="1" parent="r2_dt" source="r2_ibdb1" style="endArrow=open;startArrow=open;endFill=0;startFill=0;strokeColor=#82b366;strokeWidth=1.5;dashed=1;fontSize=9;fontColor=#1D4E1D;" target="r2_ibdb2" value="Data Guard sync">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r2_ibdb_lbl" parent="r2_dt" style="text;html=1;align=center;fontSize=10;fontStyle=1;fontColor=#1D4E1D;" value="IB Database (OCI RAC / Data Guard)" vertex="1">
+          <mxGeometry height="18" width="300" x="160" y="96" as="geometry" />
+        </mxCell>
+        <mxCell id="r2_core1" parent="r2_dt" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#1D4E1D;fontSize=11;" value="Core Banking System" vertex="1">
+          <mxGeometry height="55" width="190" x="60" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="r2_core2" parent="r2_dt" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#1D4E1D;fontSize=11;" value="Core Banking System" vertex="1">
+          <mxGeometry height="55" width="190" x="370" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="e_r2_ibdb1_core1" edge="1" parent="r2_dt" source="r2_ibdb1" style="edgeStyle=orthogonalEdgeStyle;strokeColor=#82b366;strokeWidth=1.5;dashed=1;" target="r2_core1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="155" y="200" />
+              <mxPoint x="155" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_r2_ibdb2_core2" edge="1" parent="r2_dt" source="r2_ibdb2" style="edgeStyle=orthogonalEdgeStyle;strokeColor=#82b366;strokeWidth=1.5;dashed=1;" target="r2_core2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="465" y="200" />
+              <mxPoint x="465" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F651oKN17QoxLRZEP95e-25" parent="r2_dt" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;IB DB Server 2&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="560" y="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="F651oKN17QoxLRZEP95e-24" parent="r2_dt" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;br&gt;&lt;b&gt;IB DB Server 1&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" y="77.5" as="geometry" />
+        </mxCell>
+        <mxCell id="e_r2_lb_fe1" edge="1" parent="r2" source="r2_lb" style="edgeStyle=orthogonalEdgeStyle;strokeColor=#b85450;strokeWidth=1.5;" target="r2_fe1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_r2_lb_fe2" edge="1" parent="r2" source="r2_lb" style="edgeStyle=orthogonalEdgeStyle;strokeColor=#b85450;strokeWidth=1.5;" target="r2_fe2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_r2_fe1_app1" edge="1" parent="r2" source="r2_fe1" style="edgeStyle=orthogonalEdgeStyle;strokeColor=#82b366;strokeWidth=1.5;" target="r2_app1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_r2_fe2_app2" edge="1" parent="r2" source="r2_fe2" style="edgeStyle=orthogonalEdgeStyle;strokeColor=#82b366;strokeWidth=1.5;" target="r2_app2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_r2_app1_ibdb1" edge="1" parent="r2" source="r2_app1" style="edgeStyle=orthogonalEdgeStyle;strokeColor=#82b366;strokeWidth=1.5;" target="r2_ibdb1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_r2_app2_ibdb2" edge="1" parent="r2" source="r2_app2" style="edgeStyle=orthogonalEdgeStyle;strokeColor=#82b366;strokeWidth=1.5;" target="r2_ibdb2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rep_ibdb" edge="1" parent="prod_outer" source="r1_ibdb2" style="edgeStyle=orthogonalEdgeStyle;endArrow=open;startArrow=open;endFill=0;startFill=0;strokeColor=#d79b00;strokeWidth=2.5;fontStyle=1;fontSize=10;fontColor=#7A5000;" target="r2_ibdb1" value="Active-Active Replication (Oracle GoldenGate)">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rep_core" edge="1" parent="prod_outer" source="r1_core2" style="edgeStyle=orthogonalEdgeStyle;endArrow=open;startArrow=open;endFill=0;startFill=0;strokeColor=#d79b00;strokeWidth=2.5;fontStyle=1;fontSize=10;fontColor=#7A5000;" target="r2_core1" value="Core Banking Aligned DR Sync">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_glb_r1lb" edge="1" parent="1" source="glb" style="edgeStyle=orthogonalEdgeStyle;strokeColor=#b85450;strokeWidth=2;" target="r1_lb">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_glb_r2lb" edge="1" parent="1" source="glb" style="edgeStyle=orthogonalEdgeStyle;strokeColor=#b85450;strokeWidth=2;" target="r2_lb">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="notes" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#aaaaaa;fontColor=#333333;fontSize=11;align=left;spacingLeft=10;" value="&lt;b&gt;Notes&lt;/b&gt;&lt;br&gt;&lt;div&gt;Total Servers: 12&lt;/div&gt;Using our ESB may require adding 2 servers in each of the regions.&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="1000" x="30" y="1380" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
