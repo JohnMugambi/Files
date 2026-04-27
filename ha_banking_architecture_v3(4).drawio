@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram id="ha_banking_fixed" name="HA Banking Architecture">
-    <mxGraphModel dx="4350" dy="2623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2200" pageHeight="1400" math="0" shadow="0">
+    <mxGraphModel dx="5342" dy="3069" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2200" pageHeight="1400" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -247,11 +247,6 @@
         </mxCell>
         <mxCell id="TzB3s50nklbrfirJ59Tl-160" edge="1" parent="prod_outer" source="TzB3s50nklbrfirJ59Tl-131" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;dashed=1;curved=0;" target="TzB3s50nklbrfirJ59Tl-145">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="TzB3s50nklbrfirJ59Tl-167" edge="1" parent="prod_outer" source="TzB3s50nklbrfirJ59Tl-131" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;curved=0;">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="765" y="1035.0000000000002" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="TzB3s50nklbrfirJ59Tl-204" edge="1" parent="prod_outer" source="TzB3s50nklbrfirJ59Tl-124" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;startArrow=classic;startFill=1;" target="TzB3s50nklbrfirJ59Tl-135">
           <mxGeometry relative="1" as="geometry" />
