@@ -47,7 +47,7 @@
           <mxGeometry height="370" width="360" x="40" y="380" as="geometry" />
         </mxCell>
         <mxCell id="F651oKN17QoxLRZEP95e-4" parent="r1_at" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;br&gt;&lt;b&gt;App Server 1&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="81" x="58" y="260" as="geometry" />
+          <mxGeometry height="30" width="81" x="61" y="260" as="geometry" />
         </mxCell>
         <mxCell id="TzB3s50nklbrfirJ59Tl-155" edge="1" parent="r1_at" source="BvhwCnIpCC5X1a29UkMZ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" target="TzB3s50nklbrfirJ59Tl-100">
           <mxGeometry relative="1" as="geometry">
